@@ -6,6 +6,14 @@
 # Android Studio and Webstorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
+.idea/*
+
+*/.idea/*
+*/.idea/workspace.xml
+*/.idea/tasks.xml
+*/.idea/dictionaries
+*/.idea/vcs.xml
+
 # User-specific stuff:
 .idea/workspace.xml
 .idea/tasks.xml
